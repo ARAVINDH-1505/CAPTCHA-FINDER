@@ -1,6 +1,5 @@
 # CAPTCHA-FINDER
 WE CREATE A ENHANCED ML MODEL USING OPEN CV TO DETECT THE WORDS IN THE CAPTCHA AND CONVERT IT INTO  THE TEXT FROMAT.
-# CAPTCHA Project
 
 ## Overview
 This project is a CAPTCHA system that generates and verifies CAPTCHAs to differentiate between human users and automated bots. The system can be integrated into websites and applications to enhance security.
@@ -62,12 +61,4 @@ This project is a CAPTCHA system that generates and verifies CAPTCHAs to differe
    ```
 5. Open a pull request.
 
-## License
-This project is licensed under the MIT License.
-
-## Contact
-For any issues or feature requests, open an issue on GitHub or contact the project maintainer.
-
----
-Feel free to modify this README file as per your project’s specific details!
 
